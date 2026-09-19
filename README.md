@@ -5,6 +5,7 @@ A simple website project created to practice Git and GitHub collaboration workfl
 ## Visual
 
 The project is a simple interactive webpage containing a heading, description, and button.
+![GitReady 2.0 Screenshot](<Screenshot 2026-09-19 at 12.42.59.png>)
 
 ## Tech Stack
 
